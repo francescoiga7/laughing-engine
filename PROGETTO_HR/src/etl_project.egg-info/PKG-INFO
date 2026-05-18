@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: etl_project
+Version: 0.1.0
+Summary: Esercizio per la gestione stipendi HR
+Requires-Python: >=3.9
+Requires-Dist: pandas>=2.0.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0.0; extra == "dev"

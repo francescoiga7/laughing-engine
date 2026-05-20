@@ -1,0 +1,10 @@
+pyproject.toml
+src/__init__.py
+src/etl.py
+src/etl_old_bck.py
+src/stipendi_etl.egg-info/PKG-INFO
+src/stipendi_etl.egg-info/SOURCES.txt
+src/stipendi_etl.egg-info/dependency_links.txt
+src/stipendi_etl.egg-info/requires.txt
+src/stipendi_etl.egg-info/top_level.txt
+tests/test_etl.py

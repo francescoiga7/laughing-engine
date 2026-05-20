@@ -1,2 +1,2 @@
 Sono su dev
-pronto
+pronto all'uso
